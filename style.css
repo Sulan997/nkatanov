@@ -24,42 +24,81 @@
 	}
 	#image_1 
 	{
-		position: absolute;left:80px;top:25px;width:300;heigth:300;
+		position: absolute; 
+		left:80px; 
+		top:25px; 
+		width:300; 
+		heigth:300;
 	}
 	.tex1 
 	{
-		left:460px; top:50px; position:absolute; font-size: 45px; font-family:Roboto;
+		left:460px; 
+		top:50px; 
+		position:absolute; 
+		font-size: 45px; 
+		font-family:Roboto;
 	}
 	.tex2 
 	{
-		left:410px; top:130px; position:absolute; font-size: 20px; font-family:Roboto;
+		left:410px; 
+		top:130px; 
+		position:absolute; 
+		font-size: 20px; 
+		font-family:Roboto;
 	.tex3 
 	{
-		left:460px; top:350px; position:absolute; font-size: 45px; font-family:Roboto;
+		left:460px; top:350px; 
+		position:absolute; 
+		font-size: 45px; 
+		font-family:Roboto;
 	}
 	.tex4 
 	{
-		left:50px; top:420px; position:absolute; font-size: 20px;  font-family:Roboto;
+		left:50px; 
+		top:420px; 
+		position:absolute; 
+		font-size: 20px;  
+		font-family:Roboto;
 	}
 	.tex5 
 	{
-		left:600px; top:900px; position:absolute; font-size: 45px; font-family:Roboto;
+		left:600px; 
+		top:900px; 
+		position:absolute; 
+		font-size: 45px; 
+		font-family:Roboto;
 	}
 	.book1 
 	{
-		left:130px; top:1050px; position:absolute; font-size: 20px; font-family:Roboto;
+		left:130px; 
+		top:1050px; 
+		position:absolute; 
+		font-size: 20px; 
+		font-family:Roboto;
 	}
 	.book2 
 	{
-		left:600px; top:1050px; position:absolute; font-size: 20px; font-family:Roboto;
+		left:600px; 
+		top:1050px; 
+		position:absolute; 
+		font-size: 20px; 
+		font-family:Roboto;
 	}
 	.book3 
 	{
-		left:600px; top:1100px; position:absolute; font-size: 20px; font-family:Roboto;
+		left:600px; 
+		top:1100px; 
+		position:absolute; 
+		font-size: 20px; 
+		font-family:Roboto;
 	}
 	.book4
 	{
-		left:130px; top:1100px; position:absolute; font-size: 20px; font-family:Roboto;
+		left:130px; 
+		top:1100px; 
+		position:absolute; 
+		font-size: 20px; 
+		font-family:Roboto;
 	}
 	
 	
