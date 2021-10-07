@@ -1,10 +1,10 @@
 <head>
 <style type="text/css">
-    .op01 
-	{
-		
-	}
-    .op0
+        body
+        {
+                background-color:#DABE91;
+        }
+        .op0
 	{
 		position:absolute; 
 		top:-20px; 
@@ -102,11 +102,5 @@
 	}
 	
 	
-    body
-       {
-        background-color:#DABE91;
-       }
-	   
-
 </style>
 </head>
