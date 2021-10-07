@@ -1,0 +1,74 @@
+<head>
+<style type="text/css">
+    .op01 
+	{
+		
+	}
+    .op0
+	{
+		position:absolute; 
+		top:-20px; 
+		background-color:#B48B47; 
+		width:1349px; 
+		height:70px; 
+		left: 0px;
+	}
+	.op1 
+	{
+		position:absolute; 
+		top:1500px; 
+		background-color:#B48B47; 
+		width:1349px; 
+		height:70px; 
+		left: 0px;
+	}
+	#image_1 
+	{
+		position: absolute;left:80px;top:25px;width:300;heigth:300;
+	}
+	.tex1 
+	{
+		left:460px; top:50px; position:absolute; font-size: 45px; 
+	}
+	.tex2 
+	{
+		left:410px; top:130px; position:absolute; font-size: 20px;  font-family:Comic Sans MS;
+	}
+	.tex3 
+	{
+		left:460px; top:350px; position:absolute; font-size: 45px; font-family:Comic Sans MS;
+	}
+	.tex4 
+	{
+		left:50px; top:420px; position:absolute; font-size: 20px;  font-family:Comic Sans MS;
+	}
+	.tex5 
+	{
+		left:600px; top:900px; position:absolute; font-size: 45px; font-family:Comic Sans MS;
+	}
+	.book1 
+	{
+		left:130px; top:1050px; position:absolute; font-size: 20px; font-family:Comic Sans MS;
+	}
+	.book2 
+	{
+		left:600px; top:1050px; position:absolute; font-size: 20px; font-family:Comic Sans MS;
+	}
+	.book3 
+	{
+		left:600px; top:1100px; position:absolute; font-size: 20px; font-family:Comic Sans MS;
+	}
+	.book4
+	{
+		left:130px; top:1100px; position:absolute; font-size: 20px; font-family:Comic Sans MS;
+	}
+	
+	
+    body
+       {
+        background-color:#DABE91;
+       }
+	   
+
+</style>
+</head>
